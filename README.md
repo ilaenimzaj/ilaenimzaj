@@ -28,6 +28,6 @@ I’m passionate about bridging the gap between security and business — helpin
 ---
 
 ## 📬 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- [Email Me](mailto:your@email.com)
+- [LinkedIn](https://www.linkedin.com/in/jazminemackey)
+- [Email Me](jazmine.a.mackey@gmail.com)
 
