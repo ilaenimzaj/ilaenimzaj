@@ -21,7 +21,7 @@ I’m passionate about bridging the gap between security and business — helpin
 ## 📂 Portfolio Projects
 | Project | Description | Link |
 |----------|--------------|------|
-| Risk Register | Sample company risk register using NIST CSF | [View](#) |
+| Risk Register | Sample company risk register using NIST CSF | [View]([#](https://github.com/ilaenimzaj/risk-register-project/tree/main)) |
 | Policy Review | Review of Acceptable Use Policy | [View](#) |
 | Security Awareness Campaign | Mock phishing training email | [View](#) |
 
